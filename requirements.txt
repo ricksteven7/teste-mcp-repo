@@ -1,0 +1,28 @@
+# Calculadora Python - Requisitos
+
+## Requisitos do sistema
+
+- Python 3.6 ou superior
+- Módulo `math` (incluído na biblioteca padrão do Python)
+
+## Instalação
+
+Não são necessárias dependências externas. O projeto usa apenas módulos da biblioteca padrão do Python.
+
+## Execução
+
+```bash
+python calculadora.py
+```
+
+## Testes
+
+Para testar a calculadora, você pode executar operações simples:
+
+1. Adição: 2 + 3 = 5
+2. Subtração: 10 - 4 = 6
+3. Multiplicação: 5 × 6 = 30
+4. Divisão: 15 / 3 = 5
+5. Potência: 2^3 = 8
+6. Raiz quadrada: √16 = 4
+7. Módulo: 10 mod 3 = 1
